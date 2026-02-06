@@ -1,4 +1,7 @@
-# Spring Cloud Config Server
+# fireflyframework-config-server
+
+Firefly Framework Config Server - Centralized configuration management for Firefly Framework microservices.
+
 
 ## Project Description
 
