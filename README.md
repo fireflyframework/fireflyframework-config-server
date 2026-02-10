@@ -1,4 +1,6 @@
 # fireflyframework-config-server
+    
+[![CI](https://github.com/fireflyframework/fireflyframework-config-server/actions/workflows/ci.yml/badge.svg)](https://github.com/fireflyframework/fireflyframework-config-server/actions/workflows/ci.yml)
 
 Firefly Framework Config Server - Centralized configuration management for Firefly Framework microservices.
 
