@@ -52,7 +52,7 @@ This module simplifies configuration management in distributed environments by p
 <dependency>
     <groupId>org.fireflyframework</groupId>
     <artifactId>fireflyframework-config-server</artifactId>
-    <version>26.02.03</version>
+    <version>26.02.04</version>
 </dependency>
 ```
 
