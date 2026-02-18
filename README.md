@@ -25,7 +25,7 @@
 
 Firefly Framework Config Server provides centralized configuration management for Firefly-based microservices using Spring Cloud Config Server. It serves externalized configuration from a Git repository (or other backends) to all connected microservices, enabling environment-specific configuration, runtime configuration updates, and consistent property management.
 
-The config server is a standalone Spring Boot application that can be deployed as a dedicated microservice. All other Firefly Framework modules can connect to it via the Spring Cloud Config client auto-configuration provided by `fireflyframework-core`.
+The config server is a standalone Spring Boot application that can be deployed as a dedicated microservice. All other Firefly Framework modules can connect to it via the Spring Cloud Config client auto-configuration provided by `fireflyframework-starter-core`.
 
 This module simplifies configuration management in distributed environments by providing a single source of truth for application properties across all environments (development, staging, production).
 
