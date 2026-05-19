@@ -23,6 +23,13 @@
             <artifactId>spring-cloud-config-server</artifactId>
         </dependency>
 
+        <!-- Observability: unified metrics, tracing, health, structured logging (OTel-backed) -->
+        <dependency>
+            <groupId>org.fireflyframework</groupId>
+            <artifactId>fireflyframework-observability</artifactId>
+            <version>${project.version}</version>
+        </dependency>
+
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-test</artifactId>
